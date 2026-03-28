@@ -11,6 +11,8 @@ I am focusing on understanding concepts and writing code on my own.
 - Arithmetic operations
 - Basic syntax
 
+---
+
 ### Day 2:
 - Comments
 - Escape sequences
@@ -23,6 +25,12 @@ I am focusing on understanding concepts and writing code on my own.
 - Data types
 - type() function
 - List and Tuple basics
+
+---
+
+### ✅ Day 4: Operators & Calculator
+- Arithmetic operators (+, -, *, /, %, //, **)
+- Basic calculator program
 
 ---
 
