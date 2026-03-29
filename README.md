@@ -34,6 +34,12 @@ I am focusing on understanding concepts and writing code on my own.
 
 ---
 
+### ✅ Day 5: Typecasting
+- Explicit type conversion
+- Implicit type conversion
+
+---
+
 ## 🧠 Key Learnings
 - Code executes line by line
 - Clean code matters
