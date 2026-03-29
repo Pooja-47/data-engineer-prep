@@ -2,15 +2,15 @@
 print() 
 a=5
 b=3
-print("Addition:",a+b)    # Add +
-print("Subtraction:",a-b) # Subtract -
-print("Multiplication:",a*b) # Product *
-print("Division:",a/b) # Quotient /
-print("Modulous:",a%b) # Remainder %
-print("Floor division:",a//b) # Quotient (value before point) //
-print("Exponential:",a**b) # To the Power ** (a*a*a)
+print("Addition:",a+b)   
+print("Subtraction:",a-b) 
+print("Multiplication:",a*b) 
+print("Division:",a/b) 
+print("Modulus:",a%b) 
+print("Floor division:",a//b) 
+print("Exponential:",a**b) 
 
-#These are various operators used in python to perform arithmetic operations.
+# Arithmetic operators perform mathematical operations.
 print()
 # CREATE A CALCULATOR:-
 
