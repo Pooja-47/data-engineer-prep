@@ -40,7 +40,7 @@ I am focusing on understanding concepts and writing code on my own.
 
 ---
 
-### ✅ Day 6: User Input & Typecasting
+### Day 6: User Input & Typecasting
 - input() function
 - Default string behavior
 - String concatenation issue
