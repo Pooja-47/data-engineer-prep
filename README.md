@@ -48,7 +48,7 @@ I am focusing on understanding concepts and writing code on my own.
 
 ---
 
-### ✅ Day 7: Strings
+### Day 7: Strings
 - String basics
 - Multiline strings
 - String indexing
