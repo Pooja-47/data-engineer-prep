@@ -48,14 +48,12 @@ I am focusing on understanding concepts and writing code on my own.
 
 ---
 
-### Day 7: Strings
+### Day 7: Strings & Methods
 - String basics
-- Multiline strings
-- String indexing
-- Iterating through string using loop
 - String slicing
-- Negative slicing
-- len() function
+- String indexing
+- Iteration using loop
+- String methods (upper, lower, strip, replace, split, etc.)
 
 ---
 
